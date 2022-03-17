@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from 'vue'
 import bgStart from '../assets/bg_start.png'
 import adoptionGirl from '../assets/adoptiongirl.png'
 import marketGirl from '../assets/marketgirl.png'
@@ -60,7 +59,7 @@ defineProps({
   </div>
   <footer class="bg-gray-700 py-2 pt-10 lg:p-16 lg:px-60">
     <div class="opacity-80 lg:p-8 lg:rounded-2xl text-white text-center">
-      <p>CuicuiRush is an NFT game coming in 2022. You can breed, evolve, equip, train and give your cuicuis muuuch love (and other type of potions) so they can race faster than a THUNDER!</p>
+      <p>CuicuiRush is a game coming in 2022. You can breed, evolve, equip, train and give your cuicuis muuuch love (and other type of potions) so they can race faster than a THUNDER!</p>
       <p>Follow our newsletter to be the first to know when we launch!</p>
       <p>
         Follow us on
