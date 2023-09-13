@@ -8,7 +8,7 @@ defineProps({
 
 <template>
   <div class="bg-gradient-radial from-blue-400 to-blue-50">
-    <div class="bg-start bg-center bg-no-repeat relative">
+    <div class="bg-start bg-center bg-no-repeat bg-cover relative">
       <img :src="bgStart" class="invisible" />
       <div class="absolute top-0 left-0 w-full h-full">
         <iframe

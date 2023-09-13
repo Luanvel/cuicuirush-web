@@ -9,15 +9,13 @@ defineProps({
 
 <template>
   <div class="bg-gradient-radial from-blue-400 to-blue-50">
-    <div class="bg-start bg-center bg-no-repeat">
+    <div class="bg-start bg-center bg-no-repeat bg-cover">
       <img :src="bgStart" class="invisible" />
     </div>
   </div>
   <div class="bg-grass py-10">
     <div class="flex flex-col lg:flex-row m-auto w-full lg:w-1/2 lg:rounded-2xl overflow-hidden">
-      <div class="lg:w-1/2">
-        <img :src="adoptionGirl" />
-      </div>
+      <img :src="adoptionGirl" class="lg:w-1/2" />
       <div
         class="bg-white opacity-50 text-center lg:w-1/2 flex flex-col justify-center pt-2 lg:pt-0"
       >
@@ -38,9 +36,7 @@ defineProps({
           class="py-3"
         >Feed your cuicuis with the right meal to evolve them to the next level. Discover new species as you play!</p>
       </div>
-      <div class="lg:w-1/2">
-        <img :src="marketGirl" />
-      </div>
+        <img :src="marketGirl" class="lg:w-1/2" />
     </div>
   </div>
   <div class="bg-grass py-2 lg:px-60 lg:py-16">
@@ -59,7 +55,7 @@ defineProps({
   </div>
   <footer class="bg-gray-700 py-2 pt-10 lg:p-16 lg:px-60">
     <div class="opacity-80 lg:p-8 lg:rounded-2xl text-white text-center">
-      <p>CuicuiRush is a game coming in 2022. You can breed, evolve, equip, train and give your cuicuis muuuch love (and other type of potions) so they can race faster than a THUNDER!</p>
+      <p>CuicuiRush is a free to play mobile game coming in 2024. You can breed, evolve, equip, train and give your cuicuis muuuch love (and other type of foods) so they can race faster than a THUNDER!</p>
       <p>Follow our newsletter to be the first to know when we launch!</p>
       <p>
         Follow us on
