@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from 'vue'
 import bgStart from '../assets/bg_start.png'
 
 defineProps({

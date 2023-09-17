@@ -13,7 +13,7 @@ defineProps({
       <img :src="bgStart" class="invisible" />
     </div>
   </div>
-  <div class="bg-grass py-10">
+  <div class="bg-grass md:py-10 pt-40">
     <div class="flex flex-col lg:flex-row m-auto w-full lg:w-1/2 lg:rounded-2xl overflow-hidden">
       <img :src="adoptionGirl" class="lg:w-1/2" />
       <div
