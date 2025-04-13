@@ -1,8 +1,7 @@
 <script setup>
-import bgStart from '../assets/bg_start.png'
+import bgStart from "../assets/bg_start.png";
 
-defineProps({
-})
+defineProps({});
 </script>
 
 <template>
@@ -20,5 +19,4 @@ defineProps({
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
