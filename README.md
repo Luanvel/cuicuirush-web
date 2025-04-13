@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# 🐾 CuiCuiRush Web
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+_CuicuiRush is a free to play mobile in development.You can breed, evolve, equip, train and give your cuicuis muuuch love (and other type of foods) so they can race faster than a THUNDER!_
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+🌐 Try it out [HERE](https://cuicuirush.netlify.app/)
